@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to javatechie; this is testing - IVB";
+		return "Hello, this is Ishwar Badiger from Devops June batch ";
 	}
 
 	public static void main(String[] args) {
